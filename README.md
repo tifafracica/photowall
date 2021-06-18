@@ -1,7 +1,6 @@
 See the project => https://reactphotowallapp.web.app/
 
-App tipo "IG" y la conecte con una base de datos (Firebase).
-Esto lo hice a modo de practica para no olvidar mis conocimientos en Reac.js, ya que actualmente trabajo con Vue.js. Asimismo, actualizar mis conocimientos usando un poco de Redux.
+Instagram-style app with a database (Firebase). I did this as a practice so as not to forget my knowledge in Reac.js, since I currently work with Vue.js. Also, update my knowledge using a bit of Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
